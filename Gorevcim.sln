@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Core", "Gorevcim.Core\Gorevcim.Core.csproj", "{C7606F72-CDF3-4244-8D92-86AB2AB2A63D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Repository", "Gorevcim.Repository\Gorevcim.Repository.csproj", "{C2E50906-49C7-4E72-B8E5-7B83351DFE37}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Service", "Gorevcim.Service\Gorevcim.Service.csproj", "{EB5CD071-0003-4B7F-9722-5CEAB0FB865E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.API", "Gorevcim.API\Gorevcim.API.csproj", "{F49B78DC-C2A0-42C9-AD64-550DEB79EC03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.WEB", "Gorevcim.WEB\Gorevcim.WEB.csproj", "{771D33BD-4E1F-4068-A090-6DB965BA7AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gorevcim.Caching", "Gorevcim.Caching\Gorevcim.Caching.csproj", "{C3BD6F73-BF56-4663-AB46-06ABCEF23883}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C7606F72-CDF3-4244-8D92-86AB2AB2A63D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7606F72-CDF3-4244-8D92-86AB2AB2A63D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7606F72-CDF3-4244-8D92-86AB2AB2A63D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7606F72-CDF3-4244-8D92-86AB2AB2A63D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E50906-49C7-4E72-B8E5-7B83351DFE37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E50906-49C7-4E72-B8E5-7B83351DFE37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E50906-49C7-4E72-B8E5-7B83351DFE37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E50906-49C7-4E72-B8E5-7B83351DFE37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB5CD071-0003-4B7F-9722-5CEAB0FB865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5CD071-0003-4B7F-9722-5CEAB0FB865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5CD071-0003-4B7F-9722-5CEAB0FB865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5CD071-0003-4B7F-9722-5CEAB0FB865E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49B78DC-C2A0-42C9-AD64-550DEB79EC03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49B78DC-C2A0-42C9-AD64-550DEB79EC03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49B78DC-C2A0-42C9-AD64-550DEB79EC03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49B78DC-C2A0-42C9-AD64-550DEB79EC03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{771D33BD-4E1F-4068-A090-6DB965BA7AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{771D33BD-4E1F-4068-A090-6DB965BA7AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{771D33BD-4E1F-4068-A090-6DB965BA7AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{771D33BD-4E1F-4068-A090-6DB965BA7AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3BD6F73-BF56-4663-AB46-06ABCEF23883}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3BD6F73-BF56-4663-AB46-06ABCEF23883}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3BD6F73-BF56-4663-AB46-06ABCEF23883}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3BD6F73-BF56-4663-AB46-06ABCEF23883}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDB5894A-8840-4FCE-8CB4-BBD16C7437D3}
+	EndGlobalSection
+EndGlobal
